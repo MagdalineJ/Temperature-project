@@ -1,5 +1,5 @@
 
-const APIKey="dcf53828b0da36b1f0d60a0b7bc569a5"
+const APIKey=""
 
 
 const fetchData =()=>{
